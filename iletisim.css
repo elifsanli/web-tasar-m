@@ -1,0 +1,46 @@
+.arkaplan{
+	background-color:#e5cfe4;
+}
+#menü ul{
+	list-style-type:none;
+	color:#af2cad;
+	font-family:Consolas,courier new;
+	margin-left:100px;
+}
+#menü ul li{
+	float:left;
+	padding:15px;
+	margin-left:50px;
+}
+#menü{
+	background-color:#670265;
+	width:1120px;
+	height:50px;
+	margin:0 auto;
+	font-weight:bold;
+}
+#menü ul li:hover{
+	background-color:#bc6274;
+}
+#menü ul li a:hover{
+	color:white;
+}
+img{
+	width:1120px;
+	height:250px;
+}
+#konum{
+	width:900px;
+	height:300px;
+	position:absolute; top:400px; left:205px;
+}
+#konum img {
+	width:500px;
+	height:300px;
+}
+#konum p {
+	position:absolute; bottom:245px; left:550px;
+	font-family:Arial;
+	font-size:15px;
+	color:#542751;
+}

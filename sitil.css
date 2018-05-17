@@ -1,0 +1,79 @@
+.arkaplan{
+	background-color:#e5cfe4;
+}
+#menü ul{
+	list-style-type:none;
+	color:#af2cad;
+	font-family:Consolas,courier new;
+	margin-left:100px;
+}
+#menü ul li{
+	float:left;
+	padding:15px;
+	margin-left:50px;
+}
+#menü{
+	background-color:#670265;
+	width:1120px;
+	height:50px;
+	margin:0 auto;
+	font-weight:bold;
+}
+#menü ul li:hover{
+	background-color:#bc6274;
+}
+#menü ul li a:hover{
+	color:white;
+}
+img{
+	width:1120px;
+	height:250px;
+}
+#parfum{
+	width:350px;
+	height:50px;
+	margin-left:800px;
+	position:relative; top:350px;
+}
+#resim1{
+	border-radius: 150px;
+	width:300px;
+	height:300px;
+	margin-left:300px;
+	position:relative; top:200px;
+	
+}
+#losyon{
+	margin-left:300px;
+	position:relative; top:400px;
+	width:350px;
+	height:50px;
+}
+#resim2{
+	border-radius:150px;
+	width:350px;
+	height:350px;
+	margin-left:850px;
+	position:relative; top:300px;
+
+}
+#sprey{
+	width:350px;
+	height:50px;
+	margin-left:800px;
+	position:relative; top:450px;
+}
+#resim3{
+	border-radius: 150px;
+	width:350px;
+	height:350px;
+	margin-left:300px;
+	position:relative; top:350px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,49 @@
+#arkaplan{
+	background-color:#e5cfe4;
+}
+#menu ul{
+	list-style-type:none;
+	color:#af2cad;
+	font-family:Consolas,courier new;
+	margin-left:100px;
+}
+#menu ul li{
+	float:left;
+	padding:15px;
+	margin-left:50px;
+}
+#menu{
+	background-color:#670265;
+	width:1120px;
+	height:50px;
+	margin:0 auto;
+	font-weight:bold;
+}
+#menu ul li:hover{
+	background-color:#bc6274;
+}
+#menu ul li a:hover{
+	color:white;
+}
+img{
+	width:1120px;
+	height:250px;
+}
+#tarihce{
+	width:900px;
+	height:900px;
+	position:absolute; top:600px; left:205px;
+}
+#tarihce h1{
+	position:absolute; bottom:1090px; left:450px;
+	font-family:Arial;
+	font-size:30px;
+	color:black;
+}
+#tarihce p{
+	position:absolute; bottom:850px; left:197px;
+	font-family:Arial;
+	font-size:15px;
+	color:#411641;
+	text-align:center;
+}
